@@ -25,6 +25,7 @@ print("Real part:", c.real)
 print("Imaginary part:", c.imag)
 
 ## Output
+<img width="892" height="229" alt="image" src="https://github.com/user-attachments/assets/7c388d6b-d830-423e-9731-a522591dfdb7" />
 
 ## Result
 Thus, the program was implemented and excuted successfully, and the required output was obtained.
