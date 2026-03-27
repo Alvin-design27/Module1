@@ -34,6 +34,7 @@ print("True * 5 =", True * 5)
 print("False * 5 =", False * 5)
 
 ## Output
+<img width="1128" height="306" alt="image" src="https://github.com/user-attachments/assets/9084dfd7-0f31-4e00-aec4-92a295fa2a40" />
 
 ## Result
 Thus, the program was implemented and excuted successfully, and the required output was obtained.
